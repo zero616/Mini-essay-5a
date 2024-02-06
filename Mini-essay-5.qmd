@@ -3,7 +3,7 @@ title: "Life span of prime ministers of Australia"
 subtitle: "Data analysis of life span of prime ministers of Australia until 2024-2-6"
 author: 
   - Shipeng Zhang
-thanks: "Code and data are available at: https://github.com/zero616/Homeless_Death_Analysis."
+thanks: "Code and data are available at: https://github.com/zero616/Mini-essay-5a."
 date: 2024-02-6
 date-format: long
 format: pdf
